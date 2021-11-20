@@ -1,0 +1,5 @@
+setup.py
+docker_heroku.egg-info/PKG-INFO
+docker_heroku.egg-info/SOURCES.txt
+docker_heroku.egg-info/dependency_links.txt
+docker_heroku.egg-info/top_level.txt
