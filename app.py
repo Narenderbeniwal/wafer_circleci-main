@@ -3,9 +3,9 @@ from flask import Flask
 app = Flask(__name__)
 
 
-@app.route('/', methods=['GET', 'POST'])
+@app.route('/', methods=['GET','POST'])
 def index():
-    return "Flask app is running and i am changing something"
+    return "Flask app is running and i am v changing something"
 
 
 if __name__ == "__main__":
