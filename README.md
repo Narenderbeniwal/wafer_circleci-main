@@ -1,6 +1,5 @@
 # Wafer-Fault-Detection-ML-Project
 
-Due to file size constrains I have uploaded the Files on the Google Drive.
 
 
 
