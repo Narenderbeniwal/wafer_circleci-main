@@ -129,7 +129,7 @@ In this step, we perform different sets of validation on the given set of traini
 5) Once the prediction is made for all the clusters, the predictions along with the Wafer names are saved in a CSV file at a given location and the location is returned to the client.
  
 
-h2 align="center">🛠 Technology Used <h2>
+<h2 align="center">🛠 Technology Used <h2>
  
  ```
 Python (core language)
