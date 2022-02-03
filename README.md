@@ -127,21 +127,35 @@ In this step, we perform different sets of validation on the given set of traini
 4) Prediction - Based on the cluster number, the respective model is loaded and is used to predict the data for that cluster.
 
 5) Once the prediction is made for all the clusters, the predictions along with the Wafer names are saved in a CSV file at a given location and the location is returned to the client.
+ 
 
-### Language Used - Python
-
-### Deployed on - AWS(Elastic Beanstalk) - https://www.knowledgehut.com/blog/cloud-computing/what-is-beanstalk and https://aws.amazon.com/elasticbeanstalk/
-
-### Front End by - iNeuron
-
-### Framework - Flask
-
-### Tools - PyCharm
-
-### Algorihtms - Random Forest Classifier and XGBoost Classifier
-
-### Accuracy Metric - AUC Score
-
+h2 align="center">🛠 Technology Used <h2>
+ 
+ ```
+Python (core language)
+```
+```
+pandas (for data manipulation)
+```
+```
+numpy (for numerical computation)
+```
+```
+sklearn (ML library)
+```
+``` 
+sql (for database)
+```
+```
+Flask (for API creation)
+```
+```
+Algorihtms - Random Forest Classifier and XGBoost Classifier
+```
+``` 
+Accuracy Metric - AUC Score
+```
+ 
 ## Advantages of using AWS Elastic Beanstalk :-
 ### 1.AWS Elastic Beanstalk is an easy-to-use service for deploying and scaling web applications and services developed with Java, .NET, PHP, Node.js, Python, Ruby, Go, and Docker   on familiar servers such as Apache, Nginx, Passenger, and IIS.
  
