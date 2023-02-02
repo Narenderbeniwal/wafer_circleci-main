@@ -169,11 +169,7 @@ Accuracy Metric - AUC Score
 ### 5.Auto Scaling - 
   Based on what the specific needs of your application are, Elastic Beanstalk will automatically scale your application up and down. For this, it uses its Auto scaling settings   that you can adjust to suit your needs.
 ###  6.Resource Control - 
-  For all the AWS resources like Amazon EC2 that are powering your application, you will have full control. This will help you take manual control of your application’s        infrastructure if and whenever you desire to do so.------
-  
-    
-    
-    
+  For all the AWS resources like Amazon EC2 that are powering your application, you will have full control. This will help you take manual control of your application’s        infrastructure if and whenever you desire to do so.-------
     
     
     
